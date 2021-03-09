@@ -23,7 +23,8 @@ https://dl.acm.org/doi/pdf/10.1145/3372297.3417291
 ---
 
 ### GNN\DNN\CNN\RNN + Security
-
+- [1] **NDSS 2020**. Yue Duan, Xuezixiang Li, Jinghan Wang, Heng Yin, **DeepBinDiff: Learning Program-Wide Code Representations for Binary Diffing**. 深度学习二进制相似比对  <br />
+https://www.ndss-symposium.org/wp-content/uploads/2020/02/24311-paper.pdf
 
 
 
