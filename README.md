@@ -4,22 +4,48 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 
 ---
 
-## 国外会议&期刊
+## Classified by subject
+
+### APT
 
 
 ---
 
-## 国外会议&期刊
+### Knowledge Graph + Security
+
+
+---
+
+### GNN  + Security
+
+
+---
+
+### Malware family clustering and classification
+
+---
+
+## Classified by source
+
+### Conferences & Journals Abroad
+
+
+---
+
+### Chinese Conference & Periodical
 
 
 
 ---
 
-## 企业分析报告
+### Enterprise Analysis Report
 
 
 
 ----
+
+
+
 
 
 By:Eastmount 2020-01-10
