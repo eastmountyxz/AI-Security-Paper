@@ -10,7 +10,9 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - [1] **NDSS 2020**. Xueyuan Han, Thomas F. J.-M. Pasquier, Adam Bates, James Mickens, Margo I. Seltzer:
 **Unicorn: Runtime Provenance-Based Detector for Advanced Persistent Threats**.  图结构提升隐蔽APTs检测 <br />
 https://arxiv.org/abs/2001.01525
-- 
+- [2] **S&P 2019**. Sadegh Momeni Milajerdi, Rigel Gjomemo, Birhanu Eshete, et al. **HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows**. IEEE Symposium on Security and Privacy 2019: 1137-1152. 协同信息溯源、日志、TTPs  <br />
+https://arxiv.org/pdf/1810.01594.pdf
+
 
 ---
 
@@ -36,7 +38,7 @@ https://www.ndss-symposium.org/wp-content/uploads/2020/02/24311-paper.pdf
 ---
 
 ### Malware Analysis
-- [1] NDSS 2020. Hojjat Aghakhani, Fabio Gritti, Francesco Mecca, et al. **When Malware is Packin' Heat; Limits of Machine Learning Classifiers Based on Static Analysis Features**.  加壳检测、对抗加壳 <br />
+- [1] **NDSS 2020**. Hojjat Aghakhani, Fabio Gritti, Francesco Mecca, et al. **When Malware is Packin' Heat; Limits of Machine Learning Classifiers Based on Static Analysis Features**.  加壳检测、对抗加壳 <br />
 https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310-paper.pdf <br />
 https://github.com/ucsb-seclab/packware
 - [2] **Usenix 2020**. Shuofei Zhu, Jianjun Shi, Limin Yang, et al. **Measuring and Modeling the Label Dynamics of Online Anti-Malware Engines**. VirusTotal分类优化  <br />
