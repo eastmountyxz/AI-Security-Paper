@@ -12,7 +12,11 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 https://arxiv.org/abs/2001.01525
 - [2] **S&P 2019**. Sadegh Momeni Milajerdi, Rigel Gjomemo, Birhanu Eshete, et al. **HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows**. IEEE Symposium on Security and Privacy 2019: 1137-1152. 协同信息溯源、日志、TTPs  <br />
 https://arxiv.org/pdf/1810.01594.pdf
-- [3] **USENIX 2017**. SLEUTH Real-time Attack Scenario Reconstruction from COTS Audit Data
+- [3] **USENIX 2017**. **SLEUTH Real-time Attack Scenario Reconstruction from COTS Audit Data**
+
+- [4] **TIFS 2018**. Yuqing Li, Wenkuan Dai, Jie Bai, et al.** An Intelligence-Driven Security-Aware Defense Mechanism for Advanced Persistent Threats**   <br />
+https://ieeexplore.ieee.org/abstract/document/8386813
+
 
 
 ---
@@ -51,7 +55,7 @@ https://www.usenix.org/system/files/sec20fall_zhu_prepub.pdf
 ---
 
 ### Intrusion Detection System 
-- [1] **Computers & Security**. Jianwu Zhang, Yu Ling, Xingbing Fu, et al. Model of the intrusion detection system based on the integration of spatial-temporal features. Comput. Secur. 89 (2020).  时空LSTM实现入侵检测 <br />
+- [1] **Computers & Security**. Jianwu Zhang, Yu Ling, Xingbing Fu, et al. **Model of the intrusion detection system based on the integration of spatial-temporal features**. Comput. Secur. 89 (2020).  时空LSTM实现入侵检测 <br />
 https://www.sciencedirect.com/science/article/pii/S0167404819302214
 
 
