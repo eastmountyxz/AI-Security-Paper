@@ -14,13 +14,13 @@ https://arxiv.org/abs/2001.01525
 https://arxiv.org/pdf/1810.01594.pdf
 - [3] **USENIX 2017**. **SLEUTH Real-time Attack Scenario Reconstruction from COTS Audit Data**
 
-- [4] **TIFS 2018**. Yuqing Li, Wenkuan Dai, Jie Bai, et al.** An Intelligence-Driven Security-Aware Defense Mechanism for Advanced Persistent Threats**   <br />
+- [4] **TIFS 2018**. Yuqing Li, Wenkuan Dai, Jie Bai, et al. **An Intelligence-Driven Security-Aware Defense Mechanism for Advanced Persistent Threats**   <br />
 https://ieeexplore.ieee.org/abstract/document/8386813
 
 - [5] **Computer & Science**. LIU H B, WU T B, SHEN J, et al, **Advanced Persistent Threat Detection Based on Generative Adversarial Networks and Long Short-term Memory**. in Computer Science, vol.47, no.1, pp.281-286, 2020.  恶意DNS和流量分析的APT恶意软件检测  <br />
 - [6] **RAID2020**. Jun Zhao, Qiben Yan, Xudong Liu, Bo Li, Guangsheng Zuo. **Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network**. 基于异构图卷积网络的网络威胁情报建模   <br />
 https://www.usenix.org/system/files/raid20-zhao.pdf  <br />
-【中文后续自归纳】https://mp.weixin.qq.com/s/TszbHM__hpYvdHsCoMmkUQ
+https://mp.weixin.qq.com/s/TszbHM__hpYvdHsCoMmkUQ 【中文后续自归纳】
 
 
 ---
