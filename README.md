@@ -34,7 +34,7 @@ https://www.ndss-symposium.org/wp-content/uploads/2020/02/24311-paper.pdf
 
 ---
 
-### Malware family clustering and classification
+### Malware Family Clustering and Classification
 
 
 ---
@@ -45,6 +45,14 @@ https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310-paper.pdf <br />
 https://github.com/ucsb-seclab/packware
 - [2] **Usenix 2020**. Shuofei Zhu, Jianjun Shi, Limin Yang, et al. **Measuring and Modeling the Label Dynamics of Online Anti-Malware Engines**. VirusTotal分类优化  <br />
 https://www.usenix.org/system/files/sec20fall_zhu_prepub.pdf
+
+
+
+---
+
+### Intrusion Detection System 
+- [1] **Computers & Security**. Jianwu Zhang, Yu Ling, Xingbing Fu, et al. Model of the intrusion detection system based on the integration of spatial-temporal features. Comput. Secur. 89 (2020).  时空LSTM实现入侵检测 <br />
+https://www.sciencedirect.com/science/article/pii/S0167404819302214
 
 
 ---
