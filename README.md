@@ -18,7 +18,9 @@ https://arxiv.org/pdf/1810.01594.pdf
 https://ieeexplore.ieee.org/abstract/document/8386813
 
 - [5] **Computer & Science**. LIU H B, WU T B, SHEN J, et al, **Advanced Persistent Threat Detection Based on Generative Adversarial Networks and Long Short-term Memory**. in Computer Science, vol.47, no.1, pp.281-286, 2020.  恶意DNS和流量分析的APT恶意软件检测  <br />
-- 
+- [6] **RAID2020**. Jun Zhao, Qiben Yan, Xudong Liu, Bo Li, Guangsheng Zuo. **Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network**. 基于异构图卷积网络的网络威胁情报建模   <br />
+https://www.usenix.org/system/files/raid20-zhao.pdf  <br />
+【中文后续自归纳】https://mp.weixin.qq.com/s/TszbHM__hpYvdHsCoMmkUQ
 
 
 ---
