@@ -17,6 +17,8 @@ https://arxiv.org/pdf/1810.01594.pdf
 - [4] **TIFS 2018**. Yuqing Li, Wenkuan Dai, Jie Bai, et al.** An Intelligence-Driven Security-Aware Defense Mechanism for Advanced Persistent Threats**   <br />
 https://ieeexplore.ieee.org/abstract/document/8386813
 
+- [5] **Computer & Science**. LIU H B, WU T B, SHEN J, et al, **Advanced Persistent Threat Detection Based on Generative Adversarial Networks and Long Short-term Memory**. in Computer Science, vol.47, no.1, pp.281-286, 2020.  恶意DNS和流量分析的APT恶意软件检测  <br />
+- 
 
 
 ---
