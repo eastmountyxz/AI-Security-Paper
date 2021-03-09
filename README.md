@@ -12,6 +12,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 https://arxiv.org/abs/2001.01525
 - [2] **S&P 2019**. Sadegh Momeni Milajerdi, Rigel Gjomemo, Birhanu Eshete, et al. **HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows**. IEEE Symposium on Security and Privacy 2019: 1137-1152. 协同信息溯源、日志、TTPs  <br />
 https://arxiv.org/pdf/1810.01594.pdf
+- [3] **USENIX 2017**. SLEUTH Real-time Attack Scenario Reconstruction from COTS Audit Data
 
 
 ---
@@ -19,7 +20,8 @@ https://arxiv.org/pdf/1810.01594.pdf
 ### Knowledge Graph + Security
 - [1] **CCS 2020**. Zhang X H, Zhang Y, Zhong M, et al. **Enhancing State-of-the-art Classifiers with API Semantics to Detect Evolved Android Malware**. API语义增强图+检测   <br />
 https://dl.acm.org/doi/pdf/10.1145/3372297.3417291
-
+- [2] CCS 2019. Sadegh M. Milajerdi，Birhanu Eshete, et al. **Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting**. 实体构建、攻击威胁猎杀 <br />
+https://arxiv.org/pdf/1910.00056.pdf
 
 
 ---
