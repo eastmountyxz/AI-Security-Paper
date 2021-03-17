@@ -79,6 +79,46 @@ https://www.sciencedirect.com/science/article/pii/S0167404819302214
 
 ### AI 对抗样本 
 
+文本攻击与防御的论文概述
+
+Analysis Methods in Neural Language Processing: A Survey. Yonatan Belinkov, James Glass. TACL 2019.
+Towards a Robust Deep Neural Network in Text Domain A Survey. Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang, Aoshuang Ye. 2019.
+Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey. Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li. 2019.
+(2) 黑盒攻击
+
+PAWS: Paraphrase Adversaries from Word Scrambling. Yuan Zhang, Jason Baldridge, Luheng He. NAACL-HLT 2019.
+Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems. Steffen Eger, Gözde Gül ¸Sahin, Andreas Rücklé, Ji-Ung Lee, Claudia Schulz, Mohsen Mesgar, Krishnkant Swarnkar, Edwin Simpson, Iryna Gurevych.NAACL-HLT 2019.
+Adversarial Over-Sensitivity and Over-Stability Strategies for Dialogue Models. Tong Niu, Mohit Bansal. CoNLL 2018.
+Generating Natural Language Adversarial Examples. Moustafa Alzantot, Yash Sharma, Ahmed Elgohary, Bo-Jhang Ho, Mani Srivastava, Kai-Wei Chang. EMNLP 2018.
+Breaking NLI Systems with Sentences that Require Simple Lexical Inferences. Max Glockner, Vered Shwartz, Yoav Goldberg ACL 2018.
+AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples. Dongyeop Kang, Tushar Khot, Ashish Sabharwal, Eduard Hovy. ACL 2018.
+Semantically Equivalent Adversarial Rules for Debugging NLP Models. Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin ACL 2018.
+Robust Machine Comprehension Models via Adversarial Training. Yicheng Wang, Mohit Bansal. NAACL-HLT 2018.
+Adversarial Example Generation with Syntactically Controlled Paraphrase Networks. Mohit Iyyer, John Wieting, Kevin Gimpel, Luke Zettlemoyer. NAACL-HLT 2018.
+Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers. Ji Gao, Jack Lanchantin, Mary Lou Soffa, Yanjun Qi. IEEE SPW 2018.
+Synthetic and Natural Noise Both Break Neural Machine Translation. Yonatan Belinkov, Yonatan Bisk. ICLR 2018.
+Generating Natural Adversarial Examples. Zhengli Zhao, Dheeru Dua, Sameer Singh. ICLR 2018.
+Adversarial Examples for Evaluating Reading Comprehension Systems. Robin Jia, and Percy Liang. EMNLP 2017.
+(3) 白盒攻击
+
+On Adversarial Examples for Character-Level Neural Machine Translation. Javid Ebrahimi, Daniel Lowd, Dejing Dou. COLING 2018.
+HotFlip: White-Box Adversarial Examples for Text Classification. Javid Ebrahimi, Anyi Rao, Daniel Lowd, Dejing Dou. ACL 2018.
+Towards Crafting Text Adversarial Samples. Suranjana Samanta, Sameep Mehta. ECIR 2018.
+(4) 同时探讨黑盒和白盒攻击
+
+TEXTBUGGER: Generating Adversarial Text Against Real-world Applications. Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li, Ting Wang. NDSS 2019.
+Comparing Attention-based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension. Matthias Blohm, Glorianna Jagfeld, Ekta Sood, Xiang Yu, Ngoc Thang Vu. CoNLL 2018.
+Deep Text Classification Can be Fooled. Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi.IJCAI 2018.
+(5) 对抗防御
+
+Combating Adversarial Misspellings with Robust Word Recognition. Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton. ACL 2019.
+评估
+(6) 对文本攻击和防御研究提出新的评价方法
+
+On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models. Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino. NAACL-HLT 2019
+
+
+
 
 https://www.cnblogs.com/zzxb/p/13246967.html
 
