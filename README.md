@@ -31,9 +31,9 @@ https://mp.weixin.qq.com/s/TszbHM__hpYvdHsCoMmkUQ 【中文后续自归纳】
 ### Knowledge Graph + Security
 - [1] **CCS 2020**. Zhang X H, Zhang Y, Zhong M, et al. **Enhancing State-of-the-art Classifiers with API Semantics to Detect Evolved Android Malware**. API语义增强图+检测   <br />
 https://dl.acm.org/doi/pdf/10.1145/3372297.3417291  <br />
-https://mzgao.blog.csdn.net/article/details/114366920【中文后续自归纳】 <br />
-https://www.cnblogs.com/sjtuguyang/p/13860430.html【中文后续自归纳】 <br />
-https://blog.csdn.net/qq_30303857/article/details/111356626【中文后续自归纳】
+https://mzgao.blog.csdn.net/article/details/114366920 【中文后续自归纳】 <br />
+https://www.cnblogs.com/sjtuguyang/p/13860430.html 【中文后续自归纳】 <br />
+https://blog.csdn.net/qq_30303857/article/details/111356626 【中文后续自归纳】
 - [2] **CCS 2019**. Sadegh M. Milajerdi，Birhanu Eshete, et al. **Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting**. 实体构建、攻击威胁猎杀 <br />
 https://arxiv.org/pdf/1910.00056.pdf <br />
 https://blog.csdn.net/sc0fie1d/article/details/105103342 【中文后续自归纳】
@@ -61,7 +61,7 @@ https://www.ndss-symposium.org/wp-content/uploads/2020/02/24311-paper.pdf
 - [1] **NDSS 2020**. Hojjat Aghakhani, Fabio Gritti, Francesco Mecca, et al. **When Malware is Packin' Heat; Limits of Machine Learning Classifiers Based on Static Analysis Features**.  加壳检测、对抗加壳 <br />
 https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310-paper.pdf <br />
 https://github.com/ucsb-seclab/packware <br />
-https://mzgao.blog.csdn.net/article/details/109822304【中文后续自归纳】
+https://mzgao.blog.csdn.net/article/details/109822304 【中文后续自归纳】
 - [2] **Usenix 2020**. Shuofei Zhu, Jianjun Shi, Limin Yang, et al. **Measuring and Modeling the Label Dynamics of Online Anti-Malware Engines**. VirusTotal分类优化  <br />
 https://www.usenix.org/system/files/sec20fall_zhu_prepub.pdf
 
