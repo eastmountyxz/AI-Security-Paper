@@ -37,7 +37,7 @@ https://blog.csdn.net/qq_30303857/article/details/111356626 【中文后续自�
 - [2] **CCS 2019**. Sadegh M. Milajerdi，Birhanu Eshete, et al. **Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting**. 实体构建、攻击威胁猎杀 <br />
 https://arxiv.org/pdf/1910.00056.pdf <br />
 https://blog.csdn.net/sc0fie1d/article/details/105103342 【中文后续自归纳】
-- ==[3] **RAID2020**. Jun Zhao, Qiben Yan, Xudong Liu, Bo Li, Guangsheng Zuo. **Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network**. 基于异构图卷积网络的网络威胁情报建模== <br />
+- [3] **RAID2020**. Jun Zhao, Qiben Yan, Xudong Liu, Bo Li, Guangsheng Zuo. **Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network**. 基于异构图卷积网络的网络威胁情报建模 <br />
 https://www.usenix.org/system/files/raid20-zhao.pdf  <br />
 https://mp.weixin.qq.com/s/TszbHM__hpYvdHsCoMmkUQ 【中文后续自归纳】
 
