@@ -48,7 +48,7 @@ https://mp.weixin.qq.com/s/TszbHM__hpYvdHsCoMmkUQ 【中文后续自归纳】
 - [1] **NDSS 2020**. Yue Duan, Xuezixiang Li, Jinghan Wang, Heng Yin, **DeepBinDiff: Learning Program-Wide Code Representations for Binary Diffing**. 深度学习二进制相似比对  <br />
 https://www.ndss-symposium.org/wp-content/uploads/2020/02/24311-paper.pdf
 
-
+- [2] 深度长文：图神经网络欺诈检测方法总结. https://mp.weixin.qq.com/s/ewzsURiU7bfG3gObzIP2Mw <br />
 
 ---
 
