@@ -1,8 +1,9 @@
 # APT-Paper
 This resource mainly counts papers related to APT attacks, including APT traceability, APT knowledge graph construction, APT malicious sample detection, and APT overview. Hope these summarized papers are helpful to you~
 
+- sec-deadlines：https://sec-deadlines.github.io/
 - GAN：https://github.com/hindupuravinash/the-gan-zoo
-- 
+- https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
 
 ---
 
