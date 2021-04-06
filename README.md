@@ -84,7 +84,9 @@ https://www.sciencedirect.com/science/article/pii/S0167404819302214
 - https://github.com/QData/deepWordBug
 - https://github.com/angr/angr
 - https://github.com/angr/angr-doc/tree/master/examples
+- https://baimafujinji.blog.csdn.net/article/details/50926010
 - https://app.any.run/submissions/
+- https://github.com/kbandla/APTnotes
 
 
 ---
