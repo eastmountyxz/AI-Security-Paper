@@ -82,6 +82,10 @@ https://www.sciencedirect.com/science/article/pii/S0167404819302214
 ### Interesting repositories
 - https://github.com/RedDrip7/APT_Digital_Weapon
 - https://github.com/QData/deepWordBug
+- https://github.com/angr/angr
+- https://github.com/angr/angr-doc/tree/master/examples
+- https://app.any.run/submissions/
+
 
 ---
 
