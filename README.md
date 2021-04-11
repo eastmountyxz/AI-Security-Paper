@@ -151,6 +151,72 @@ https://www.cnblogs.com/zzxb/p/13246967.html
 
 
 
+**图神经网络**
+- 01.Node2Vec：Node2Vec: Scalable Feature Learning for Networks
+- 02.LINE：LINE: Large-scale Information Network Embedding
+- 03.SDNE：Structural Deep Network Embedding
+- 04.metapath2vec：metapath2vec:Scalable Representation Learning for Heterogeneous Networks
+- 05.TransE/H/R/D:
+TransE：Translating Embeddings for Modeling Multi-relational Data
+TransH：Knowledge Graph Embedding by Translating on Hyperplanes
+TransR：Learning entity and relation embeddings for knowledge graph completion
+TransD：Knowledge Graph Embedding via Dynamic Mapping Matrix
+- 06.GAT：Graph Attention Networks
+- 07.GraphSAGE：Inductive Representation kearping on Large Graphs
+- 08.GCN：Semi-Supervised Classification with Graph Convolutional Networks
+- 09.GGNN：Gated Graph Sequence Neural Networks
+- 10.MPNN：Neural Message Passing for Quantum Chemistry
+
+NLP精读论文目录（已完结）
+01.Deep learning：Deep learning
+02.word2vec：Efficient Estimation of Word Representations in Vector Space
+03.句和文档的embedding：Distributed representations of sentences and docments
+04.machine translation：Neural Machine Translation by Jointly Learning to Align and Translate
+05.transformer：Transformer: attention is all you need
+06.GloVe：GloVe: Global Vectors for Word Representation
+07.Skip：Skip-Thought Vector
+08.TextCNN：Convolutional Neural Networks for Sentence Classification
+09.基于CNN的词级别的文本分类：Character-level Convolutional Networks for Text Classification
+10.DCNN：A Convolutional Neural Network For Modelling Sentences
+11.FASTTEXT：Bag of Tricks for Efficient Text Classification
+12.HAN：Hierarchical Attention Network for Document Classification
+13.PCNNATT：Neural Relation Extraction with Selective Attention over Instances
+14.E2ECRF：End-to-end Sequence Labeling via Bi-directional LSTM-CNNS-CRF
+15.多层LSTM：Sequence to Sequence Learning with Neural Networks
+16.卷积seq2seq：Convolutional Sequence to Sequence Learning
+17.GNMT：Google’s Neural Machine Translation System：Bridging the Gap between Human and Machine Translation
+18.UMT：Phrase-Based&Neural Unsupervised Machine Translation
+19.指针生成网络：Get To The Point:Summarization with Pointer-Generator Networks
+20.End-to-End Memory Networks：End-to-End Memory Networks
+21.QANet：QANet:Combining Local Convolution with Global Self-Attention for Reading Comprehension
+22.双向Attention：Bi-Directional Attention Flow for Machine Comprehension
+23.Dialogue：Adversarial Learning for Neural Dialogue Generation
+24.缺
+25.R-GCNs：Modeling Relational Data with GraphConvolutional Networks
+26.大规模语料模型：Exploring the limits of language model
+27.Transformer-XL：Transformer-XL:Attentive Language Models Beyond a Fixed-Length Context
+28.TCN：An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
+29.Deep contextualized word representations
+30.BERT:Pre-training of Deep Bidirectional Transformers for Language Understanding
+
+NLP Baseline（已完结）
+1.Word2Vec.Efficient Estimation of Word Representations in Vector Space
+2.GloVe.GloVe: Global Vectors for Word Representation
+3.C2W.Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation
+4.TextCNN.Convolutional Neural Networks for Sentence Classification
+5.CharCNN.Character-level Convolutional Networks for Text Classification
+6.FastText.Bag of Tricks for Efficient Text Classification
+7.Seq2Seq.Sequence to Sequence Learning with Neural Networks
+8.Attention NMT.Neural Machine Translation by Jointly Learning to Align and Translate
+9.HAN.Hierarchical Attention Network for Document Classification
+10.SGM.SGM: Sequence Generation Model for Multi-Label Classification
+
+CV目录（已太监）
+这里和之前的CV paper学习营内容有变化，停更。
+01.Deep learning：Deep learning
+02.AlexNet：ImageNet Classification with Deep Convolutional Neural Networks
+
+
 ---
 
 ## 二.Classified by source
