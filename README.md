@@ -3,6 +3,9 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 
 - sec-deadlines：https://sec-deadlines.github.io/
 - GAN：https://github.com/hindupuravinash/the-gan-zoo
+
+安全学术大佬博客：
+
 - https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
 
 ---
