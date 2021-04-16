@@ -218,6 +218,12 @@ TransD：Knowledge Graph Embedding via Dynamic Mapping Matrix <br />
 - 10.SGM.SGM: Sequence Generation Model for Multi-Label Classification
 
 
+
+---
+
+### GAN
+
+
 ---
 
 ## 二.Classified by source
