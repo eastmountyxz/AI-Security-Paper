@@ -246,6 +246,14 @@ TransD：Knowledge Graph Embedding via Dynamic Mapping Matrix <br />
 ----
 
 
+## Time
+
+2021-04-19：撰写恶意代码相关论文
+
+读博艰辛，努力前行~
+
+
+---
 
 
 
