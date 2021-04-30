@@ -30,6 +30,7 @@ https://ieeexplore.ieee.org/abstract/document/8386813
 - [7] **RAID2020**. Jun Zhao, Qiben Yan, Xudong Liu, Bo Li, Guangsheng Zuo. **Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network**. 基于异构图卷积网络的网络威胁情报建模   <br />
 https://www.usenix.org/system/files/raid20-zhao.pdf  <br />
 https://mp.weixin.qq.com/s/TszbHM__hpYvdHsCoMmkUQ 【中文后续自归纳】
+- [8] Yali Gao,  Xiaoyong Li, Hao Peng, Binxing Fang, Philip S. Yu. HinCTI: A Cyber  Threat Intelligence Modeling and Identification System Based on Heterogeneous  Information Network.. IEEE TKDE 2020. (CCF A)
 
 
 ---
