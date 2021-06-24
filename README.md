@@ -4,6 +4,8 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - sec-deadlines：https://sec-deadlines.github.io/
 - letpub：https://www.letpub.com.cn/index.php?page=journalapp
 - CCFrank：在dblp和Google学术的搜索结果中显示中国计算机学会CCF推荐的国际会议和期刊排名
+- 画图图标：https://www.iconfont.cn/
+
 
 安全学术大佬博客：
 - GAN：https://github.com/hindupuravinash/the-gan-zoo
