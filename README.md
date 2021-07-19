@@ -36,6 +36,10 @@ https://www.usenix.org/system/files/raid20-zhao.pdf  <br />
 https://mp.weixin.qq.com/s/TszbHM__hpYvdHsCoMmkUQ 【中文后续自归纳】 <br />
 https://raid2020.org/accepted-papers/
 - [8] Yali Gao,  Xiaoyong Li, Hao Peng, Binxing Fang, Philip S. Yu. HinCTI: A Cyber  Threat Intelligence Modeling and Identification System Based on Heterogeneous  Information Network.. IEEE TKDE 2020. (CCF A)
+- [9] **EuroS&P**. Kiavash Satvat, Rigel Gjomemo and V.N. Venkatakrishnan, **EXTRACTOR: Extracting Attack Behavior from Threat Reports**  <br />
+https://arxiv.org/pdf/2104.08618.pdf <br />
+
+
 
 
 ---
