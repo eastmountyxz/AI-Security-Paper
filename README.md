@@ -12,6 +12,10 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - GAN：https://github.com/hindupuravinash/the-gan-zoo
 - https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
 
+
+其他学习：
+- CVPR2021集合：https://github.com/amusi/CVPR2021-Papers-with-Code
+
 ---
 
 ## 一.Classified by subject
