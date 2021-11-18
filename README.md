@@ -13,6 +13,11 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
 
 
+安全数据集：<br />
+Malware
+- https://whyisyoung.github.io/BODMAS/
+
+
 其他学习：
 - CVPR2021集合：https://github.com/amusi/CVPR2021-Papers-with-Code
 
