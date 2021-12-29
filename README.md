@@ -99,6 +99,9 @@ https://www.usenix.org/system/files/sec20fall_zhu_prepub.pdf
 ---
 
 ### Intrusion Detection System 
+By: Update 2021-12-29
+
+
 - [1] **Computers & Security**. Jianwu Zhang, Yu Ling, Xingbing Fu, et al. **Model of the intrusion detection system based on the integration of spatial-temporal features**. Comput. Secur. 89 (2020).  时空LSTM实现入侵检测 <br />
 https://www.sciencedirect.com/science/article/pii/S0167404819302214
 
