@@ -12,6 +12,9 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - GAN：https://github.com/hindupuravinash/the-gan-zoo
 - https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
 
+安全团队介绍：
+- Yanfang (Fanny) Ye, Ph.D.：http://yes-lab.org/publications.html
+
 
 安全数据集：<br />
 Malware
