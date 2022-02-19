@@ -6,6 +6,8 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - CCFrank：在dblp和Google学术的搜索结果中显示中国计算机学会CCF推荐的国际会议和期刊排名
 - SCI分区查询：https://www.letpub.com.cn/index.php?journalid=2011&page=journalapp&view=detail
 - 画图图标：https://www.iconfont.cn/
+- AI deadlines: https://aideadlin.es
+
 
 
 安全学术大佬博客：
@@ -23,6 +25,38 @@ Malware
 
 其他学习：
 - CVPR2021集合：https://github.com/amusi/CVPR2021-Papers-with-Code
+
+
+---
+
+**初学者论文技巧：**
+
+📃 目标领域重要文章
+- Survey + 关键词 -> 谷歌学术
+- papers + 关键词 -> DBLP/GitHub/知乎
+- paperswithcode（https://paperswithcode.com） -> leaderboard
+- 经典论文 -> related work & cited by
+
+🗂 管理
+- Zotero（https://www.zotero.org/），免费，多级目录，同步，全文检索
+
+📃 读论文
+- 题目+ 摘要 + Intro
+- 图表 + 图表描述部分
+- 分析总结：段 -> section -> 整篇文章 -> 结构/逻辑
+
+🗂 写论文
+- Word X  Latex✅ 不关心排版专注内容，引文列表
+- 经典论文拆解 -> 模仿
+- 句型：阅读积累 + Phrasebank （https://www.phrasebank.manchester.ac.uk）
+- 翻译/纠错/润色：谷歌+ Grammarly（https://app.grammarly.com/） + Quillbot （https://quillbot.com/）
+
+📬 投稿
+- CCF推荐列表 （https://www.ccf.org.cn/Academic_Evaluation/By_category/）
+- AI deadlines: https://aideadlin.es
+- Sec deadlines：https://sec-deadlines.github.io/
+
+
 
 ---
 
