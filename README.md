@@ -7,7 +7,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - SCI分区查询：https://www.letpub.com.cn/index.php?journalid=2011&page=journalapp&view=detail
 - 画图图标：https://www.iconfont.cn/
 - AI deadlines: https://aideadlin.es
-
+- 矢量图转换：https://onlineconvertfree.com/zh/convert-format/png-to-ai/
 
 
 安全学术大佬博客：
