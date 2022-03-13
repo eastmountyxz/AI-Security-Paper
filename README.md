@@ -22,6 +22,9 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 Malware
 - https://whyisyoung.github.io/BODMAS/
 
+APT
+- https://github.com/mstfknn/malware-sample-library
+
 
 其他学习：
 - CVPR2021集合：https://github.com/amusi/CVPR2021-Papers-with-Code
