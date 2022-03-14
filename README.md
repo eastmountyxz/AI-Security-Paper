@@ -11,17 +11,22 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - 矢量图转换：https://onlineconvertfree.com/zh/convert-format/png-to-ai/
 
 
-**安全学术大佬博客：**
-- GAN：https://github.com/hindupuravinash/the-gan-zoo
-- https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
 
 **安全团队介绍：**
 - Yanfang (Fanny) Ye, Ph.D.：http://yes-lab.org/publications.html
 - 王骞教授：http://nisplab.whu.edu.cn/
 
+
+
+**安全学术大佬博客：**
+- GAN：https://github.com/hindupuravinash/the-gan-zoo
+- https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
+
+
 **安全数据集：**<br />
 Malware
-- https://whyisyoung.github.io/BODMAS/
+- BODMAS Malware Dataset：https://whyisyoung.github.io/BODMAS/
+- 
 
 APT
 - https://github.com/mstfknn/malware-sample-library
