@@ -27,12 +27,13 @@ APT
 - https://github.com/mstfknn/malware-sample-library
 
 IOT
+- NSL-KDD：https://www.unb.ca/cic/datasets/nsl.html
 
 IDS
 
 
 
-其他学习：
+**其他学习：**
 - CVPR2021集合：https://github.com/amusi/CVPR2021-Papers-with-Code
 
 
