@@ -19,8 +19,9 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 
 
 **安全学术大佬博客：**
-- GAN：https://github.com/hindupuravinash/the-gan-zoo
+- GAN巨佬：https://github.com/hindupuravinash/the-gan-zoo
 - https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
+- https://b1nsec.github.io/
 
 
 **安全数据集：**<br />
