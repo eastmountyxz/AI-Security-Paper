@@ -2,28 +2,34 @@
 This resource mainly counts papers related to APT attacks, including APT traceability, APT knowledge graph construction, APT malicious sample detection, and APT overview. Hope these summarized papers are helpful to you~
 
 - sec-deadlines：https://sec-deadlines.github.io/
+- AI deadlines: https://aideadlin.es
 - letpub：https://www.letpub.com.cn/index.php?page=journalapp
 - CCFrank：在dblp和Google学术的搜索结果中显示中国计算机学会CCF推荐的国际会议和期刊排名
 - SCI分区查询：https://www.letpub.com.cn/index.php?journalid=2011&page=journalapp&view=detail
 - 画图图标：https://www.iconfont.cn/
-- AI deadlines: https://aideadlin.es
+
 - 矢量图转换：https://onlineconvertfree.com/zh/convert-format/png-to-ai/
 
 
-安全学术大佬博客：
+**安全学术大佬博客：**
 - GAN：https://github.com/hindupuravinash/the-gan-zoo
 - https://people.engr.tamu.edu/guofei/sec_conf_stat.htm
 
-安全团队介绍：
+**安全团队介绍：**
 - Yanfang (Fanny) Ye, Ph.D.：http://yes-lab.org/publications.html
+- 王骞教授：http://nisplab.whu.edu.cn/
 
-
-安全数据集：<br />
+**安全数据集：**<br />
 Malware
 - https://whyisyoung.github.io/BODMAS/
 
 APT
 - https://github.com/mstfknn/malware-sample-library
+
+IOT
+
+IDS
+
 
 
 其他学习：
