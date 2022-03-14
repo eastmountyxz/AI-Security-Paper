@@ -27,9 +27,9 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - https://www.unb.ca/cic/datasets/
 - **Malware** <br />
 BODMAS Malware Dataset：https://whyisyoung.github.io/BODMAS/
-- **APT**
+- **APT** <br />
 https://github.com/mstfknn/malware-sample-library
-- **IDS**
+- **IDS** <br />
 NSL-KDD：https://www.unb.ca/cic/datasets/nsl.html
 - **Scripts**
 
