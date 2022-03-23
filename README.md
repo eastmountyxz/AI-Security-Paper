@@ -74,6 +74,8 @@ NSL-KDD：https://www.unb.ca/cic/datasets/nsl.html
 
 ---
 
+PS：论文后续会详细整理补充，目前忙碌中....
+
 ## 一.Classified by subject
 
 ### APT
