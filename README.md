@@ -12,7 +12,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 **常用工具：**
 - 画图图标：https://www.iconfont.cn/
 - 矢量图转换：https://onlineconvertfree.com/zh/convert-format/png-to-ai/
-- LaTeX绘制表格：https://www.latex-tables.com/
+- LaTeX绘制表格：https://www.latex-tables.com/ （Excel绘制表格粘贴生成LaTex）
 
 
 
