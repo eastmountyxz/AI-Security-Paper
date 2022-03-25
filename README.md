@@ -4,7 +4,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - sec-deadlines：https://sec-deadlines.github.io/
 - AI deadlines: https://aideadlin.es
 - CCF deadlines：https://ccfddl.github.io/
-- NISL@THU安全顶会论文查询：https://secpaper.cn/result
+- NISL@THU安全顶会论文查询：https://secpaper.cn
 - letpub：https://www.letpub.com.cn/index.php?page=journalapp
 - CCFrank：在dblp和Google学术的搜索结果中显示中国计算机学会CCF推荐的国际会议和期刊排名
 - SCI分区查询：https://www.letpub.com.cn/index.php?journalid=2011&page=journalapp&view=detail
@@ -17,6 +17,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 
 
 **安全团队介绍：**
+- NISL@THU：http://netsec.ccert.edu.cn/chs/
 - Yanfang (Fanny) Ye, Ph.D.：http://yes-lab.org/publications.html
 - 王骞教授：http://nisplab.whu.edu.cn/
 - 何德彪教授：http://blockchain.whu.edu.cn
