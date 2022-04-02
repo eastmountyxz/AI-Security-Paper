@@ -22,7 +22,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - 王骞教授：http://nisplab.whu.edu.cn/
 - 何德彪教授：http://blockchain.whu.edu.cn
 - GoSSIP(上交)：https://github.com/GoSSIP-SJTU
-- 学术安全圈：https://secdr.org/ | https://chenghuang.org/
+- 学术安全圈(川大)：https://secdr.org/ | https://chenghuang.org/
 
 
 **安全学术大佬博客：**
