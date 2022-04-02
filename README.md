@@ -21,6 +21,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - Yanfang (Fanny) Ye, Ph.D.：http://yes-lab.org/publications.html
 - 王骞教授：http://nisplab.whu.edu.cn/
 - 何德彪教授：http://blockchain.whu.edu.cn
+- GoSSIP(上交)：https://github.com/GoSSIP-SJTU
 
 
 **安全学术大佬博客：**
