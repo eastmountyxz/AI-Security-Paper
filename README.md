@@ -23,6 +23,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - XiaoFeng Wang：https://homes.luddy.indiana.edu/xw7/
 - Giovanni Vigna：https://sites.cs.ucsb.edu/~vigna/
 - Peng Liu：https://s2.ist.psu.edu/pliu/
+- Heng Yin：https://www.cs.ucr.edu/~heng/
 - Yanfang (Fanny) Ye, Ph.D.：http://yes-lab.org/publications.html
 
 **安全团队介绍（国内）：**
