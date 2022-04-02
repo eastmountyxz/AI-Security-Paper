@@ -36,6 +36,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - 王志波教授：https://person.zju.edu.cn/zhibowang#951076
 - GoSSIP(上交)：https://github.com/GoSSIP-SJTU
 - 学术安全圈(川大)：https://secdr.org/ | https://chenghuang.org/
+- InforSec：http://www.inforsec.org/wp/?page_id=309
 
 
 **安全学术大佬博客：**
