@@ -18,6 +18,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 
 **安全团队介绍：**
 - NISL@THU：http://netsec.ccert.edu.cn/chs/
+- Dawn Song：https://people.eecs.berkeley.edu/~dawnsong/
 - Yanfang (Fanny) Ye, Ph.D.：http://yes-lab.org/publications.html
 - 王骞教授：http://nisplab.whu.edu.cn/
 - 何德彪教授：http://blockchain.whu.edu.cn
