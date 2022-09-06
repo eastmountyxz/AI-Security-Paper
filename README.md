@@ -33,6 +33,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - NISL@THU：http://netsec.ccert.edu.cn/chs/
 - NESA-lab：https://nesa.zju.edu.cn/
 - 王骞教授：http://nisplab.whu.edu.cn/
+- 唐杰教授：http://keg.cs.tsinghua.edu.cn/jietang/ （清华大学，ACM Fellow/IEEE Fellow）
 - 何德彪教授：http://blockchain.whu.edu.cn
 - 周亚金教授：https://yajin.org/
 - 王志波教授：https://person.zju.edu.cn/zhibowang#951076
