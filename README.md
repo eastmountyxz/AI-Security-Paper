@@ -37,6 +37,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - 何德彪教授：http://blockchain.whu.edu.cn
 - 周亚金教授：https://yajin.org/
 - 王志波教授：https://person.zju.edu.cn/zhibowang#951076
+- 李琦老师：http://netsec.ccert.edu.cn/chs/people/qli/
 - GoSSIP(上交)：https://github.com/GoSSIP-SJTU
 - 学术安全圈(川大)：https://secdr.org/ | https://chenghuang.org/
 - InforSec：http://www.inforsec.org/wp/?page_id=309
