@@ -27,6 +27,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - Peng Liu：https://s2.ist.psu.edu/pliu/
 - Heng Yin：https://www.cs.ucr.edu/~heng/
 - Jiang Ming：https://ranger.uta.edu/~ming/
+- Luyi Xing：https://www.xing-luyi.com/
 - Zhiyun Qian：https://www.cs.ucr.edu/~zhiyunq/
 - Yanfang (Fanny) Ye, Ph.D.：http://yes-lab.org/publications.html
 
