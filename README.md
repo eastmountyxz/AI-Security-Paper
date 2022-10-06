@@ -77,7 +77,7 @@ https://github.com/jun-zeng/Audit-log-analysis <br />
 - [Deep learning-based anomaly detection in cyber-physical systems: Progress and opportunities](https://dl.acm.org/doi/pdf/10.1145/3453155) [ACM Computing Surveys 2021]
 - [A Survey on Ethereum Systems Security: Vulnerabilities, Attacks, and Defenses](https://dl.acm.org/doi/pdf/10.1145/3391195) [ACM Computing Surveys 2021]
 - [Text Mining in Cybersecurity: A Systematic Literature Review](https://dl.acm.org/doi/pdf/10.1145/3462477) [ACM Computing Surveys 2022]
-- [Machine Learning-Enabled IoT Security: Open Issues and Challenges Under Advanced Persistent Threats](https://dl.acm.org/doi/pdf/10.1145/3530812) [ACM Computing Surveys 2022]
+- [Machine Learning-Enabled IoT Security: Open Issues and Challenges Under Advanced Persistent Threats](https://arxiv.org/ftp/arxiv/papers/2204/2204.03433.pdf) [ACM Computing Surveys 2022]
 
 **其他学习：**
 - CVPR2021集合：https://github.com/amusi/CVPR2021-Papers-with-Code
