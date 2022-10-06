@@ -71,7 +71,7 @@ https://github.com/jun-zeng/Audit-log-analysis <br />
 - [A Survey on Malware Detection Using Data Mining Techniques. ACM Computing Surveys, 2017](https://dl.acm.org/doi/pdf/10.1145/3365001)
 - [Malware Dynamic Analysis Evasion Techniques: A Survey. ACM Computing Surveys, 2020](https://dl.acm.org/doi/pdf/10.1145/3365001)
 - [APT datasets and attack modeling for automated detection methods: A review. Computers & Security, 2020](https://www.sciencedirect.com/science/article/pii/S0167404820300213)
-- 
+- [Threat detection and investigation with system-level provenance graphs: A survey. Computers & Security, 2021]
 
 **其他学习：**
 - CVPR2021集合：https://github.com/amusi/CVPR2021-Papers-with-Code
