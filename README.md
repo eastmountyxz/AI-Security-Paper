@@ -68,12 +68,20 @@ https://github.com/jun-zeng/Audit-log-analysis <br />
 
 
 **安全经典综述：**<br />
-- [A Survey on Malware Detection Using Data Mining Techniques](https://dl.acm.org/doi/pdf/10.1145/3365001) [ACM Computing Surveys 2017]
-- [A Survey of Android Malware Detection with Deep Neural Models](https://dl.acm.org/doi/pdf/10.1145/3417978) [ACM Computing Surveys 2017]
+- `Malware Detection`
+[A Survey on Malware Detection Using Data Mining Techniques](https://dl.acm.org/doi/pdf/10.1145/3365001) [ACM Computing Surveys 2017] <br />
+[A Survey of Android Malware Detection with Deep Neural Models](https://dl.acm.org/doi/pdf/10.1145/3417978) [ACM Computing Surveys 2017] <br />
+[Dynamic Malware Analysis in the Modern Era - A State of the Art Survey](https://dl.acm.org/doi/pdf/10.1145/3329786) [ACM Computing Surveys 2020]  <br />
+
+- `APT`
+[APT datasets and attack modeling for automated detection methods: A review](https://www.sciencedirect.com/science/article/pii/S0167404820300213) [Computers & Security 20200] <br />
+[Threat detection and investigation with system-level provenance graphs: A survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061) [Computers & Security 2021] 
+
+- `Other`
 - [Malware Dynamic Analysis Evasion Techniques: A Survey](https://dl.acm.org/doi/pdf/10.1145/3365001) [ACM Computing Surveys 2020]
-- [Dynamic Malware Analysis in the Modern Era - A State of the Art Survey](https://dl.acm.org/doi/pdf/10.1145/3329786) [ACM Computing Surveys 2020]
-- [APT datasets and attack modeling for automated detection methods: A review](https://www.sciencedirect.com/science/article/pii/S0167404820300213) [Computers & Security 20200]
-- [Threat detection and investigation with system-level provenance graphs: A survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061) [Computers & Security 2021]
+ 
+ 
+
 - [Deep learning-based anomaly detection in cyber-physical systems: Progress and opportunities](https://dl.acm.org/doi/pdf/10.1145/3453155) [ACM Computing Surveys 2021]
 - [A Survey on Ethereum Systems Security: Vulnerabilities, Attacks, and Defenses](https://dl.acm.org/doi/pdf/10.1145/3391195) [ACM Computing Surveys 2021]
 - [Text Mining in Cybersecurity: A Systematic Literature Review](https://dl.acm.org/doi/pdf/10.1145/3462477) [ACM Computing Surveys 2022]
