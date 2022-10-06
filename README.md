@@ -68,8 +68,9 @@ https://github.com/jun-zeng/Audit-log-analysis <br />
 
 
 **安全经典综述：**<br />
-- A Survey on Malware Detection Using Data Mining Techniques
-https://dl.acm.org/doi/pdf/10.1145/3365001
+- [A Survey on Malware Detection Using Data Mining Techniques](https://dl.acm.org/doi/pdf/10.1145/3365001)
+- [APT datasets and attack modeling for automated detection methods: A review](https://www.sciencedirect.com/science/article/pii/S0167404820300213)
+- 
 
 
 **其他学习：**
