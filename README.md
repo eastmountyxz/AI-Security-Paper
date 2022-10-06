@@ -70,13 +70,13 @@ https://github.com/jun-zeng/Audit-log-analysis <br />
 **安全经典综述：**<br />
 - [A Survey on Malware Detection Using Data Mining Techniques](https://dl.acm.org/doi/pdf/10.1145/3365001) [ACM Computing Surveys 2017]
 - [A Survey of Android Malware Detection with Deep Neural Models](https://dl.acm.org/doi/pdf/10.1145/3417978) [ACM Computing Surveys 2017]
-- [Malware Dynamic Analysis Evasion Techniques: A Survey [ACM Computing Surveys 2020]](https://dl.acm.org/doi/pdf/10.1145/3365001)
-- [Dynamic Malware Analysis in the Modern Era - A State of the Art Survey (ACM Computing Surveys 2020)](https://dl.acm.org/doi/pdf/10.1145/3329786)
-- [APT datasets and attack modeling for automated detection methods: A review [Computers & Security 20200]](https://www.sciencedirect.com/science/article/pii/S0167404820300213)
-- [Threat detection and investigation with system-level provenance graphs: A survey [Computers & Security 2021]](https://www.sciencedirect.com/science/article/pii/S0167404821001061)
-- [Deep learning-based anomaly detection in cyber-physical systems: Progress and opportunities [ACM Computing Surveys 2021]](https://dl.acm.org/doi/pdf/10.1145/3453155)
-- [A Survey on Ethereum Systems Security: Vulnerabilities, Attacks, and Defenses [ACM Computing Surveys 2021]](https://dl.acm.org/doi/pdf/10.1145/3391195)
-- [Text Mining in Cybersecurity: A Systematic Literature Review [ACM Computing Surveys 2022]](https://dl.acm.org/doi/pdf/10.1145/3462477)
+- [Malware Dynamic Analysis Evasion Techniques: A Survey](https://dl.acm.org/doi/pdf/10.1145/3365001) [ACM Computing Surveys 2020]
+- [Dynamic Malware Analysis in the Modern Era - A State of the Art Survey](https://dl.acm.org/doi/pdf/10.1145/3329786) [ACM Computing Surveys 2020]
+- [APT datasets and attack modeling for automated detection methods: A review](https://www.sciencedirect.com/science/article/pii/S0167404820300213) [Computers & Security 20200]
+- [Threat detection and investigation with system-level provenance graphs: A survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061) [Computers & Security 2021]
+- [Deep learning-based anomaly detection in cyber-physical systems: Progress and opportunities](https://dl.acm.org/doi/pdf/10.1145/3453155) [ACM Computing Surveys 2021]
+- [A Survey on Ethereum Systems Security: Vulnerabilities, Attacks, and Defenses](https://dl.acm.org/doi/pdf/10.1145/3391195) [ACM Computing Surveys 2021]
+- [Text Mining in Cybersecurity: A Systematic Literature Review](https://dl.acm.org/doi/pdf/10.1145/3462477) [ACM Computing Surveys 2022]
 
 **其他学习：**
 - CVPR2021集合：https://github.com/amusi/CVPR2021-Papers-with-Code
