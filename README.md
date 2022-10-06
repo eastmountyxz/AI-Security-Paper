@@ -68,24 +68,24 @@ https://github.com/jun-zeng/Audit-log-analysis <br />
 
 
 **安全经典综述：**<br />
-- `Malware Detection`
-[A Survey on Malware Detection Using Data Mining Techniques](https://dl.acm.org/doi/pdf/10.1145/3365001) [ACM Computing Surveys 2017] <br />
-[A Survey of Android Malware Detection with Deep Neural Models](https://dl.acm.org/doi/pdf/10.1145/3417978) [ACM Computing Surveys 2017] <br />
-[Dynamic Malware Analysis in the Modern Era - A State of the Art Survey](https://dl.acm.org/doi/pdf/10.1145/3329786) [ACM Computing Surveys 2020]  <br />
+- `Malware Detection | Anomaly Detection` <br />
+[1] [A Survey on Malware Detection Using Data Mining Techniques](https://dl.acm.org/doi/pdf/10.1145/3365001) [ACM Computing Surveys 2017] <br />
+[2] [A Survey of Android Malware Detection with Deep Neural Models](https://dl.acm.org/doi/pdf/10.1145/3417978) [ACM Computing Surveys 2017] <br />
+[3] [Dynamic Malware Analysis in the Modern Era - A State of the Art Survey](https://dl.acm.org/doi/pdf/10.1145/3329786) [ACM Computing Surveys 2020]  <br />
+[4] [Deep learning-based anomaly detection in cyber-physical systems: Progress and opportunities](https://dl.acm.org/doi/pdf/10.1145/3453155) [ACM Computing Surveys 2021]
 
-- `APT`
-[APT datasets and attack modeling for automated detection methods: A review](https://www.sciencedirect.com/science/article/pii/S0167404820300213) [Computers & Security 20200] <br />
-[Threat detection and investigation with system-level provenance graphs: A survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061) [Computers & Security 2021] 
+- `APT` <br />
+[1] [APT datasets and attack modeling for automated detection methods: A review](https://www.sciencedirect.com/science/article/pii/S0167404820300213) [Computers & Security 20200] <br />
+[2] [Threat detection and investigation with system-level provenance graphs: A survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061) [Computers & Security 2021] 
+[3] [Machine Learning-Enabled IoT Security: Open Issues and Challenges Under Advanced Persistent Threats](https://arxiv.org/ftp/arxiv/papers/2204/2204.03433.pdf) [ACM Computing Surveys 2022]
+
+- `Vulnerability` <br />
+[1] [A Survey on Ethereum Systems Security: Vulnerabilities, Attacks, and Defenses](https://dl.acm.org/doi/pdf/10.1145/3391195) [ACM Computing Surveys 2021]
 
 - `Other`
-- [Malware Dynamic Analysis Evasion Techniques: A Survey](https://dl.acm.org/doi/pdf/10.1145/3365001) [ACM Computing Surveys 2020]
+[1] [Malware Dynamic Analysis Evasion Techniques: A Survey](https://dl.acm.org/doi/pdf/10.1145/3365001) [ACM Computing Surveys 2020]
+[2] [Text Mining in Cybersecurity: A Systematic Literature Review](https://dl.acm.org/doi/pdf/10.1145/3462477) [ACM Computing Surveys 2022] 
  
- 
-
-- [Deep learning-based anomaly detection in cyber-physical systems: Progress and opportunities](https://dl.acm.org/doi/pdf/10.1145/3453155) [ACM Computing Surveys 2021]
-- [A Survey on Ethereum Systems Security: Vulnerabilities, Attacks, and Defenses](https://dl.acm.org/doi/pdf/10.1145/3391195) [ACM Computing Surveys 2021]
-- [Text Mining in Cybersecurity: A Systematic Literature Review](https://dl.acm.org/doi/pdf/10.1145/3462477) [ACM Computing Surveys 2022]
-- [Machine Learning-Enabled IoT Security: Open Issues and Challenges Under Advanced Persistent Threats](https://arxiv.org/ftp/arxiv/papers/2204/2204.03433.pdf) [ACM Computing Surveys 2022]
 
 **其他学习：**
 - CVPR2021集合：https://github.com/amusi/CVPR2021-Papers-with-Code
