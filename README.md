@@ -73,6 +73,7 @@ https://github.com/jun-zeng/Audit-log-analysis <br />
 [2] [A Survey of Android Malware Detection with Deep Neural Models](https://dl.acm.org/doi/pdf/10.1145/3417978) [ACM Computing Surveys 2017] <br />
 [3] [Dynamic Malware Analysis in the Modern Era - A State of the Art Survey](https://dl.acm.org/doi/pdf/10.1145/3329786) [ACM Computing Surveys 2020]  <br />
 [4] [Deep learning-based anomaly detection in cyber-physical systems: Progress and opportunities](https://dl.acm.org/doi/pdf/10.1145/3453155) [ACM Computing Surveys 2021] <br />
+[5] [A Survey on Data-driven Network Intrusion Detection](https://dl.acm.org/doi/pdf/10.1145/3472753) [ACM Computing Surveys 2021] <br />
 
 - `APT` <br />
 [1] [APT datasets and attack modeling for automated detection methods: A review](https://www.sciencedirect.com/science/article/pii/S0167404820300213) [Computers & Security 20200] <br />
