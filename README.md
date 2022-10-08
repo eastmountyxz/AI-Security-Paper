@@ -88,6 +88,8 @@ https://github.com/jun-zeng/Audit-log-analysis <br />
 [2] [Text Mining in Cybersecurity: A Systematic Literature Review](https://dl.acm.org/doi/pdf/10.1145/3462477) [ACM Computing Surveys 2022]  <br />
  
 
+- CSUR搜索：https://dl.acm.org/journal/csur
+
 **其他学习：**
 - CVPR2021集合：https://github.com/amusi/CVPR2021-Papers-with-Code
 - APT论文集合（作者）：https://github.com/eastmountyxz/APT-ProvenanceGraph
