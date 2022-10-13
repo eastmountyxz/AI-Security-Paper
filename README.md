@@ -76,7 +76,7 @@ https://github.com/jun-zeng/Audit-log-analysis <br />
 [5] [A Survey on Data-driven Network Intrusion Detection](https://dl.acm.org/doi/pdf/10.1145/3472753) [ACM Computing Surveys 2021] <br />
 
 - `APT` <br />
-[1] [APT datasets and attack modeling for automated detection methods: A review](https://www.sciencedirect.com/science/article/pii/S0167404820300213) [Computers & Security 20200] <br />
+[1] [APT datasets and attack modeling for automated detection methods: A review](https://www.sciencedirect.com/science/article/pii/S0167404820300213) [Computers & Security 2020] <br />
 [2] [Threat detection and investigation with system-level provenance graphs: A survey](https://www.sciencedirect.com/science/article/pii/S0167404821001061) [Computers & Security 2021] <br />
 [3] [Machine Learning-Enabled IoT Security: Open Issues and Challenges Under Advanced Persistent Threats](https://arxiv.org/ftp/arxiv/papers/2204/2204.03433.pdf) [ACM Computing Surveys 2022] <br />
 
