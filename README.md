@@ -30,6 +30,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - Luyi Xing：https://www.xing-luyi.com/
 - Zhiyun Qian：https://www.cs.ucr.edu/~zhiyunq/
 - Yanfang (Fanny) Ye, Ph.D.：http://yes-lab.org/publications.html
+- Wang Gang: https://gangw.cs.illinois.edu/
 
 **安全团队介绍（国内）：**
 - NISL@THU：http://netsec.ccert.edu.cn/chs/
