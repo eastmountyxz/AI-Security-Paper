@@ -17,7 +17,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - 矢量图转换：https://cn.office-converter.com/png-to-eps
 - bmeps -c Figure-1.png Figure-1.eps 
 - LaTeX绘制表格：https://www.latex-tables.com/ （Excel绘制表格粘贴生成LaTex）
-
+- 矢量图转换（推荐）：https://cloudconvert.com/svg-to-eps （Visio转SVG再转EPS和PDF）
 
 
 **安全团队介绍（国外）：**
