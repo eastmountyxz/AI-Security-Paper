@@ -126,7 +126,14 @@ https://github.com/jun-zeng/Audit-log-analysis <br />
 - AI deadlines: https://aideadlin.es
 - Sec deadlines：https://sec-deadlines.github.io/
 
+---
 
+**个人总结系统安全和论文撰写那些事**
+
+- 论文撰写
+- 论文投递
+- 论文修改
+- 论文润色
 
 ---
 
