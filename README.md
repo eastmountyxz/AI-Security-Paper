@@ -1,4 +1,4 @@
-# AI-Security-Paper
+![image](https://github.com/eastmountyxz/AI-Security-Paper/assets/53172375/a91cc60b-b3be-4b89-b01b-40fc18b4fa8c)# AI-Security-Paper
 This resource mainly counts papers related to APT attacks, including APT traceability, APT knowledge graph construction, APT malicious sample detection, and APT overview. Hope these summarized papers are helpful to you~
 
 - sec-deadlines：https://sec-deadlines.github.io/
@@ -10,6 +10,8 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - SCI分区查询：https://www.letpub.com.cn/index.php?journalid=2011&page=journalapp&view=detail
 - 四大顶会统计：https://www.s3.eurecom.fr/~balzarot/notes/top4_2018/authors_all_conf.html
 - 学术关系查询：https://www.semanticscholar.org/
+- CCF DDL查询：https://ccfddl.top/
+- CCF DDL查询：https://ccfddl.github.io/
 
 **常用工具：**
 - 画图图标：https://www.iconfont.cn/
