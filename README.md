@@ -1,4 +1,4 @@
-![image](https://github.com/eastmountyxz/AI-Security-Paper/assets/53172375/a91cc60b-b3be-4b89-b01b-40fc18b4fa8c)# AI-Security-Paper
+# AI-Security-Paper
 This resource mainly counts papers related to APT attacks, including APT traceability, APT knowledge graph construction, APT malicious sample detection, and APT overview. Hope these summarized papers are helpful to you~
 
 - sec-deadlines：https://sec-deadlines.github.io/
