@@ -47,6 +47,7 @@ This resource mainly counts papers related to APT attacks, including APT traceab
 - GoSSIP(上交)：https://github.com/GoSSIP-SJTU
 - 学术安全圈(川大)：https://secdr.org/ | https://chenghuang.org/
 - InforSec：http://www.inforsec.org/wp/?page_id=309
+- 张岑老师：https://cenzhang.github.io/publications/
 
 
 **安全学术大佬博客：**
